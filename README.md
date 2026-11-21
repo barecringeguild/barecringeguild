@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=ff7b72&center=true&vCenter=true&width=600&lines=Open%20source;Hi%20there%21;Music" alt="barecringeguild" />
+</p>
 
-<!--
-**barecringeguild/barecringeguild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Quietly breaking things since 2019.</h3>
 
-Here are some ideas to get you started:
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Taiwan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Quick intro
+
+- 🌱 Learning React
+- 🔭 Currently working on web performance
+- 💬 Ask me about Next.js
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barecringeguild&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=barecringeguild&hide_border=true&theme=tokyonight" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-ff7b72?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-ff7b72?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-ff7b72?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-ff7b72?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/TailwindCSS-ff7b72?style=for-the-badge&logoColor=white" alt="TailwindCSS" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/barecringeguild"><img src="https://img.shields.io/badge/GitHub-@barecringeguild-ff7b72?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/github/followers/barecringeguild?label=Followers&style=social" alt="Followers" />
+</p>
+
+<p align="center"><i>Based in Taiwan. Always happy to talk shop.</i></p>
